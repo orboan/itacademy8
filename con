@@ -1,0 +1,1 @@
+mongosh "mongodb+srv://cluster0.wkgcy.mongodb.net/ita" --username orboan
